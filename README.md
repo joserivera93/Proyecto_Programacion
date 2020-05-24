@@ -25,7 +25,7 @@ Podemos visualizar el apartado de los pagos para ver si el cliente a pagado y po
 ##Zona Cliente
 
 Lo primero que vera el cliente es la pagina principal ya este registrado o no
-![Principal](./Fotos%20Guia/Pagina Principal.png)
+![Principal](./Fotos%20Guia/Pagina%20Principal.png)
 
 Lo siguiente que debe hacer el cliente es registrarse o iniciar sesion en el caso de que ya estuviera registrado
 ![Registro](./Fotos Guia/registro.png)
